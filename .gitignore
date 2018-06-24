@@ -1,0 +1,7 @@
+## IntelliJ IDEA specifics
+/**/.idea/*
+!/**/.idea/eclipseCodeFormatter.xml
+!/**/.idea/saveactions_settings.xml
+!/**/.idea/codeStyleSettings.xml
+*.iml
+
